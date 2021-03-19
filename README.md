@@ -5,4 +5,4 @@ Can also be access using http://findhikingtrails.ga/  (No longer accessible)
 
 When you need to find a hiking place but you don't know where to go?
 When you already visit all hiking places and cannot choose one?
-Use this appplication to randomize your enxt destination.
+Use this appplication to randomize your next destination.
